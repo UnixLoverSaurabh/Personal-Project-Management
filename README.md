@@ -1,3 +1,12 @@
+# Features of the Personal Project Management 
+* Create a RESTful API with Spring boot 2+
+* Secure the API using Spring Security and JWTs
+* Create a basic front-end with ReactJS
+* Consume the Spring boot API with Axios
+* Basic State Management with Redux
+* Deploy to it to the Heroku Free tier
+
+
 ## Project Requirements
 - Basic knowledge of Java and Spring Framework
 - Basic knowledge of HTML, CSS, Javascript (ES6 Syntax)
